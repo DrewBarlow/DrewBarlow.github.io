@@ -1,6 +1,6 @@
 
 function hello() {
-  alert("Hi");
+  alert("erm");
   return;
 }
 
